@@ -1,0 +1,109 @@
+body {
+background-color:blue;
+  font-family: Arial, sans-serif;
+  margin: 10;
+  padding: 10;
+}
+
+/* Style the header */
+header {
+  background-color:green;
+  color:grey;
+  padding:20px;
+}
+
+/* Style the navigation menu */
+nav ul {
+  list-style: none;
+  margin:0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+margin-right: 20px;
+}
+
+nav li a {
+  color:white;
+  text-decoration: none;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 20px;
+  line-height: 2.5;
+color:white;
+}
+
+/* Style the footer */
+footer {
+  background-color:orange;
+  color:white;
+  padding: 10px;
+  text-align: center;
+}
+.container 
+{
+  
+max-width: 1200px;
+ 
+ margin: 0 auto;
+  
+display: flex;
+  
+align-items: center;
+  
+justify-content: space-between;
+
+}
+
+
+.hero-content {
+  max-width: 600px;
+
+}
+
+
+.hero-content h1 {
+
+font-size: 48px;
+
+font-weight: bold;
+
+margin-bottom: 24px;
+
+}
+
+.hero-content p {
+font-size: 30px;
+
+line-height: 1.5;
+
+margin-bottom: 32px;
+
+}
+
+
+.hero-image img 
+{
+
+max-width: 200px;
+display: block;
+
+margin-left: auto;
+
+border-radius:1000px;
+}
+a-after
+{
+color:black;
+}    
